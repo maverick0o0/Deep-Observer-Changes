@@ -2,7 +2,7 @@ HTTP/1.1 301 Moved Permanently
 Connection: close
 Content-Length: 134
 Content-Type: text/html
-Date: Tue, 26 Sep 2023 13:39:19 GMT
+Date: Tue, 26 Sep 2023 13:39:25 GMT
 Location: https://www.logitech.com:443/
 Server: awselb/2.0
 
