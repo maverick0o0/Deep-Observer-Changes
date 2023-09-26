@@ -16,12 +16,11 @@ X-Dispatcher: dispatcher2uswest1-28253398
 X-Frame-Options: SAMEORIGIN
 X-Ua-Compatible: IE=9; IE=8; IE=7; IE=EDGE
 X-Vhost: publish
-X-Xss-Protection: 1; mode=block
-<!DOCTYPE HTML>
+X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 
 <html data-i18n-dictionary-src="https://www.logitech.com/en-gb.i18n.json" lang="en-GB">
 <head>
-<meta charset="utf-8"/>
+
 <script src="https://cdn.yottaa.com/rapid.security.min.7.1.1.js?key=_z6s40u8df_6mA"></script>
 <script type="text/javascript">
             const ONETRUST_COOKIE = 'OptanonConsent';
@@ -87,7 +86,7 @@ X-Xss-Protection: 1; mode=block
                 "https://qoe-1.yottaa.net/api/v1/configure.rapid.js?key=_z6s40u8df_6mA"
             );
         </script>
-<link crossorigin="use-credentials" href="https://www.logitech.com/en-gb.manifest.json" rel="manifest"/>
+
 <script type="module">
 				import {Workbox} from 'https://storage.googleapis.com/workbox-cdn/releases/6.4.1/workbox-window.prod.mjs';
 				(function() {
@@ -171,118 +170,118 @@ X-Xss-Protection: 1; mode=block
 					}
 				})();
 			</script>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<link href="/etc.clientlibs/logitech/clientlibs/common/resources/images/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+
+
 <title>Logitech United Kingdom</title>
-<meta content="Discover the innovative world of Logitech UK and shop everything MX, Wireless Mice, Backlit Keyboards, HD Webcams, USB Headsets, Software, and more" name="description"/>
-<meta content="GB" name="country"/>
-<meta content="EN" name="language"/>
-<meta content="Logitech United Kingdom" name="Search_title"/>
-<meta content="Discover the innovative world of Logitech UK and shop everything MX, Wireless Mice, Backlit Keyboards, HD Webcams, USB Headsets, Software, and more" name="Search_intro"/>
-<meta content="content" name="Search_pagetype"/>
-<meta content="summary_large_image" name="twitter:card"/>
-<meta content="Logitech United Kingdom" name="twitter:title"/>
-<meta content="Discover the innovative world of Logitech UK and shop everything MX, Wireless Mice, Backlit Keyboards, HD Webcams, USB Headsets, Software, and more" name="twitter:description"/>
-<meta content="https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/common/og-generic/og-image-electrico.png?v=1" name="twitter:image"/>
-<meta content="Logitech United Kingdom" property="og:title"/>
-<meta content="Discover the innovative world of Logitech UK and shop everything MX, Wireless Mice, Backlit Keyboards, HD Webcams, USB Headsets, Software, and more" property="og:description"/>
-<meta content="website" property="og:type"/>
-<meta content="https://www.logitech.com/en-gb" property="og:url"/>
-<meta content="en_GB" property="og:locale"/>
-<meta content="wtV3OTVkOcuXsBS2wGLY8ekHymEOksO7qzdC3gXTYtk" name="google-site-verification"/>
-<meta content="rmiwlt+qKaRvqWZX6I21JeJbUZLzIM62+DRF6IsTpDc=" name="verify-v1"/>
-<meta content="9661B514941ED0F98B50A3201DB2FDD7" name="msvalidate.01"/>
-<meta content="4ca6d5482fcc8879" name="yandex-verification"/>
-<link href="https://www.logitech.com/en-gb" rel="canonical"/>
-<link href="https://www.logitech.com/en-gb" hreflang="en-gb" rel="alternate"/>
-<link href="https://www.logitech.com/es-ar" hreflang="es-ar" rel="alternate"/>
-<link href="https://www.logitech.com/pt-br" hreflang="pt-br" rel="alternate"/>
-<link href="https://www.logitech.com/fr-ca" hreflang="fr-ca" rel="alternate"/>
-<link href="https://www.logitech.com/en-ca" hreflang="en-ca" rel="alternate"/>
-<link href="https://www.logitech.com/es-mx" hreflang="es-mx" rel="alternate"/>
-<link href="https://www.logitech.com/en-us" hreflang="en-us" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-gy" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-cl" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-bz" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-co" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-cr" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-do" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-ec" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-sv" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-gt" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-hn" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-jm" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-ni" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-py" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-pe" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-uy" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-ve" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-cu" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-gp" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-ht" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-sr" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-pa" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-bo" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-tt" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-bs" rel="alternate"/>
-<link href="https://www.logitech.com/es-roam" hreflang="es-bb" rel="alternate"/>
-<link href="https://www.logitech.com/fr-fr" hreflang="fr-fr" rel="alternate"/>
-<link href="https://www.logitech.com/en-kw" hreflang="en-kw" rel="alternate"/>
-<link href="https://www.logitech.com/en-qa" hreflang="en-qa" rel="alternate"/>
-<link href="https://www.logitech.com/da-dk" hreflang="da-dk" rel="alternate"/>
-<link href="https://www.logitech.com/es-es" hreflang="es-es" rel="alternate"/>
-<link href="https://www.logitech.com/cs-cz" hreflang="cs-cz" rel="alternate"/>
-<link href="https://www.logitech.com/fr-ch" hreflang="fr-ch" rel="alternate"/>
-<link href="https://www.logitech.com/it-ch" hreflang="it-ch" rel="alternate"/>
-<link href="https://www.logitech.com/it-it" hreflang="it-it" rel="alternate"/>
-<link href="https://www.logitech.com/fr-be" hreflang="fr-be" rel="alternate"/>
-<link href="https://www.logitech.com/de-at" hreflang="de-at" rel="alternate"/>
-<link href="https://www.logitech.com/fi-fi" hreflang="fi-fi" rel="alternate"/>
-<link href="https://www.logitech.com/sv-se" hreflang="sv-se" rel="alternate"/>
-<link href="https://www.logitech.com/de-ch" hreflang="de-ch" rel="alternate"/>
-<link href="https://www.logitech.com/nl-be" hreflang="nl-be" rel="alternate"/>
-<link href="https://www.logitech.com/no-no" hreflang="no-no" rel="alternate"/>
-<link href="https://www.logitech.com/en-sa" hreflang="en-sa" rel="alternate"/>
-<link href="https://www.logitech.com/en-ae" hreflang="en-ae" rel="alternate"/>
-<link href="https://www.logitech.com/nl-nl" hreflang="nl-nl" rel="alternate"/>
-<link href="https://www.logitech.com/pl-pl" hreflang="pl-pl" rel="alternate"/>
-<link href="https://www.logitech.com/tr-tr" hreflang="tr-tr" rel="alternate"/>
-<link href="https://www.logitech.com/en-za" hreflang="en-za" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-pt" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-bg" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-lv" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-lt" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-ro" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-sk" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-hr" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-ua" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-si" rel="alternate"/>
-<link href="https://www.logitech.com/en-eu" hreflang="en-ie" rel="alternate"/>
-<link href="https://www.logitech.com/el-gr" hreflang="el-gr" rel="alternate"/>
-<link href="https://www.logitech.com/en-ch" hreflang="en-ch" rel="alternate"/>
-<link href="https://www.logitech.com/hu-hu" hreflang="hu-hu" rel="alternate"/>
-<link href="https://www.logitech.com/de-de" hreflang="de-de" rel="alternate"/>
-<link href="https://www.logitech.com/en-ph" hreflang="en-ph" rel="alternate"/>
-<link href="https://www.logitech.com/en-my" hreflang="en-my" rel="alternate"/>
-<link href="https://www.logitech.com/zh-cn" hreflang="zh-cn" rel="alternate"/>
-<link href="https://www.logitech.com/en-nz" hreflang="en-nz" rel="alternate"/>
-<link href="https://www.logicool.co.jp/ja-jp" hreflang="ja-jp" rel="alternate"/>
-<link href="https://www.logitech.com/id-id" hreflang="in-id" rel="alternate"/>
-<link href="https://www.logitech.com/zh-tw" hreflang="zh-tw" rel="alternate"/>
-<link href="https://www.logitech.com/th-th" hreflang="th-th" rel="alternate"/>
-<link href="https://www.logitech.com/en-au" hreflang="en-au" rel="alternate"/>
-<link href="https://www.logitech.com/en-in" hreflang="en-in" rel="alternate"/>
-<link href="https://www.logitech.com/ko-kr" hreflang="ko-kr" rel="alternate"/>
-<link href="https://www.logitech.com/en-sg" hreflang="en-sg" rel="alternate"/>
-<link href="https://www.logitech.com/vi-vn" hreflang="vi-vn" rel="alternate"/>
-<link href="https://www.logitech.com/zh-hk" hreflang="zh-hk" rel="alternate"/>
-<link href="https://www.logitech.com/en-hk" hreflang="en-hk" rel="alternate"/>
-<meta content="https://resource.logitech.com/w_1200,h_630,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/common/og-generic/og-image-electrico.png?v=1" property="og:image"/>
-<meta content="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/common/og-generic/og-image-electrico.png?v=1" property="Search_image"/>
-<meta content="commerce-home-page" name="template"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script src="/etc.clientlibs/logitech-common/clientlibs/clientlib-jquery.min.5cf6fcd4366153d725c5d4fb008729ff.js"></script>
 <script src="/etc.clientlibs/logitech-common/clientlibs/clientlib-utils.min.4a192b590a2c2926fb000264370c0588.js"></script>
-<link href="/etc.clientlibs/logitech/clientlibs/homepage-sfcc.min.46f54566bc40f2c65f3399d75be151ca.css" rel="stylesheet" type="text/css"/>
+
 <script>
    function targetPageParams() {
          return {
@@ -1533,217 +1532,7 @@ X-Xss-Protection: 1; mode=block
 <!-- This is to include HTML Hack using page properties XF path - Starts -->
 <div class="xfpage page basicpage">
 <div class="aem-margin-options" data-aem-id="i6c303b2750c62d77d90296e1ab3a4e57" id="i6c303b2750c62d77d90296e1ab3a4e57">
-<style>
-            /* CSS */
 
-/* No ticket. Found during release. PLP is missing CSS/JS for notify me */
-.notify-me-modal:not(.pangea-inited) {
-    display: none;
-}
-
-
-/* @TODO: CODE TO BE REMOVED WHEN NEW KEPLER SEC NAV IS DEPLOYED*/
-/* https://jira.logitech.com/browse/LOGIWEB-2145 */
-/*@media (min-width: 1025px) {*/
-/*    .secondary-nav-container.theme-light .component-secondary-nav.fixed-nav a.btn-compact-dark {*/
-/*        color: white !important;*/
-/*    }*/
-/*    .secondary-nav-container.theme-light .component-secondary-nav.fixed-nav a.btn-compact-dark :hover {*/
-/*        color: #2f3132 !important;*/
-/*    }*/
-/*    .secondary-nav-container.theme-light .component-secondary-nav.fixed-nav a:not(.navBtn):not(.btn-compact-dark):not(.btn-compact):not(.cta) {*/
-/*        color: #2f3132;*/
-/*    }*/
-/*}*/
-
-
-
-/* @TODO: CODE TO BE REMOVED WHEN NEW KEPLER SEC NAV IS DEPLOYED*/
-/* Semi-permanent fix. No code-fix planned until the secondary nav gets re-built.
-This is to force buttons in the secondary nav to have a black background and white text
-when the secnav is in its sticky state. This allows the author to style the button
-however they like for when it's at the top of the screen without worrying about what
-happens when the secnav background becomes opaque.
-https://jira.logitech.com/browse/LOGIWEB-2654
-*/
-/*.secondary-nav-container .fixed-nav .pangea-cmp.ctas-ctn .cta {*/
-/*    background-color: black;*/
-/*    color: white;*/
-/*}*/
-/*.secondary-nav-container .fixed-nav .pangea-cmp.ctas-ctn .cta:hover {*/
-/*    background-color: transparent;*/
-/*    color: black;*/
-/*}*/
-/*.secondary-nav-container .fixed-nav .pangea-cmp.ctas-ctn .cta:hover:before {*/
-/*    border-color: black;*/
-/*}*/
-
-
-/* @TODO: CODE TO BE REMOVED WHEN NEW KEPLER SEC NAV IS DEPLOYED*/
-
-/*@media (max-width: 1024px) {*/
-/*    .component-secondary-nav ul {*/
-/*        top: 50px;*/
-/*    }*/
-    
-/*    .secondary-nav-container .pangea-cmp.ctas-ctn .cta {*/
-/*        background-color: black !important;*/
-/*        color: white !important;*/
-/*    }*/
-/*    .secondary-nav-container .pangea-cmp.ctas-ctn .cta:hover {*/
-/*        background-color: transparent !important;*/
-/*        color: black !important;*/
-/*    }*/
-/*    .secondary-nav-container .pangea-cmp.ctas-ctn .cta:hover:before {*/
-/*        content: "";*/
-/*        position: absolute;*/
-/*        left: 0;*/
-/*        top: 0;*/
-/*        right: 0;*/
-/*        bottom: 0;*/
-/*        border: 2px solid black !important;*/
-/*        pointer-events: none;*/
-/*    }*/
-/*}*/
-
-/*
-https://jira.logitech.com/browse/LOGIB2B-1264
-Kepler search not working in Safari
-*/
-/*@media(min-width: 1025px) {
-    .kepler .search-form .search-submit {
-        display: block;
-		visibility: hidden;
-		width: 0px;
-		padding: 0;
-    }
-
-	html[data-whatinput="keyboard"] .kepler .search-form .search-submit {
-		visibility: visible;
-		width: auto;
-		padding: 0 20px;
-	}
-}*/
-
-
-/* @TODO: CODE TO BE REMOVED WHEN NEW KEPLER SEC NAV IS DEPLOYED*/
-/* https://jira.logitech.com/browse/LOGIWEB-4785 
-breadcrumbs not clickable
-*/
-/*.component-secondary-nav {*/
-/*    pointer-events: none; */
-/*}*/
-/*.component-secondary-nav a,*/
-/*.component-secondary-nav button {*/
-/*    pointer-events: all; */
-/*}*/
-
-body {
-    font-weight : 300 !important;
-}
-
-
-/*fixes clear filter button x */
-.pangea-cmp .plp-current-filters button .filter-close:after {
-	line-height: 18px !important;
-	font-size: 7px !important;
-	font-weight: var(--p-font-weight-extra-bold) !important;
-}
-
-/*fixes funny rendered color filters*/
-.plp .filters [data-filter-id=colors] .option .swatch.selected:after {
-    box-sizing: border-box;
-}
-/*home page recomended products fix*/
-/* https://jira.logitech.com/browse/LOGIWEB-5582 */
-.pangea-cmp.recommended-products a{
-    color: inherit;
-}
-.pangea-cmp.recommended-products a:hover{
-    color: inherit;
-}
-
-/* https://jira.logitech.com/browse/NSTAR-5517 */
-/* Price display overrides for search results in non-commerce locales */
-/*:lang(el-GR) > .pangea-search-results .product-price, 
-:lang(ru-RU) > .pangea-search-results .product-price, 
-:lang(tr-TR) > .pangea-search-results .product-price, 
-:lang(pt-BR) > .pangea-search-results .product-price, 
-:lang(es-AR) > .pangea-search-results .product-price, 
-:lang(es-ROAM) > .pangea-search-results .product-price, 
-:lang(en-ZA) > .pangea-search-results .product-price, 
-:lang(en-QA) > .pangea-search-results .product-price, 
-:lang(en-KW) > .pangea-search-results .product-price, 
-:lang(en-SA) > .pangea-search-results .product-price, 
-:lang(en-AE) > .pangea-search-results .product-price, 
-:lang(en-PH) > .pangea-search-results .product-price, 
-:lang(en-HK) > .pangea-search-results .product-price, 
-:lang(zh-HK) > .pangea-search-results .product-price, 
-:lang(zh-TW) > .pangea-search-results .product-price, 
-:lang(ko-KR) > .pangea-search-results .product-price, 
-:lang(en-IN) > .pangea-search-results .product-price, 
-:lang(zh-CN) > .pangea-search-results .product-price, 
-:lang(en-IE) > .pangea-search-results .product-price, 
-:lang(th-TH) > .pangea-search-results .product-price, 
-:lang(en-AE) > .pangea-search-results .product-price,
-:lang(en-MY) > .pangea-search-results .product-price, 
-:lang(en-SG) > .pangea-search-results .product-price, 
-:lang(id-ID) > .pangea-search-results .product-price, 
-:lang(vi-VN) > .pangea-search-results .product-price{
-    display: none !important;
-}
-
-/* https://jira.logitech.com/browse/LOGIWEB-6017 */
-/* Price display overrides for comparison chart in non-commerce locales */
-/*:lang(el-GR) > .compare-chart .product-price, 
-:lang(ru-RU) > .compare-chart .product-price, 
-:lang(tr-TR) > .compare-chart .product-price, 
-:lang(pt-BR) > .compare-chart .product-price, 
-:lang(es-AR) > .compare-chart .product-price, 
-:lang(es-ROAM) > .compare-chart .product-price, 
-:lang(en-ZA) > .compare-chart .product-price, 
-:lang(en-QA) > .compare-chart .product-price, 
-:lang(en-KW) > .compare-chart .product-price, 
-:lang(en-SA) > .compare-chart .product-price, 
-:lang(en-AE) > .compare-chart .product-price, 
-:lang(en-PH) > .compare-chart .product-price, 
-:lang(en-HK) > .compare-chart .product-price, 
-:lang(zh-HK) > .compare-chart .product-price, 
-:lang(zh-TW) > .compare-chart .product-price, 
-:lang(ko-KR) > .compare-chart .product-price, 
-:lang(en-IN) > .compare-chart .product-price, 
-:lang(zh-CN) > .compare-chart .product-price, 
-:lang(en-IE) > .compare-chart .product-price, 
-:lang(th-TH) > .compare-chart .product-price,
-:lang(en-AE) > .compare-chart .product-price,
-:lang(en-MY) > .compare-chart .product-price, 
-:lang(en-SG) > .compare-chart .product-price, 
-:lang(id-ID) > .compare-chart .product-price,
-:lang(vi-VN) > .compare-chart .product-price{
-    display: none !important;
-}*/
-
-
-/* Hide prices on pages. Uses JS hack */
-/*body.hide-prices .price-atc-ctn {
-    display: none !important;
-}*/
-
-/* Avoid long URLs pushing over the next column in Tech Specs */
-/* Remove when LOGIB2B-1813 is complete */
-ul.tech-specs ul.specs-description-list,
-ul.tech-specs ul.dotted {
-    overflow-wrap: anywhere;
-}
-
-/* https://jira.logitech.com/browse/LOGIWEB-6564 */
-.pangea-grid-layout .layout-item {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: var(--halign);
-}
-
-        </style>
 <div class="aem-content-ctn">
 <div class="aem-padding-options" data-aem-id="i6c303b2750c62d77d90296e1ab3a4e57-padding-options">
 <!-- HTML -->
@@ -1804,93 +1593,20 @@ ul.tech-specs ul.dotted {
 <!-- This is to include HTML Hack using page properties XF path - Ends -->
 <!--        content start -->
 <div class="aem-margin-options" data-aem-id="i5dafe04cdc814b976528797b25bf4443" id="i5dafe04cdc814b976528797b25bf4443">
-<style>
-            /* CSS */
-@media(max-width: 719px) {
-    #i5dafe04cdc814b976528797b25bf4443 .font-marquee {
-        font-size: 48px;   
-    }
-    
-    #i5dafe04cdc814b976528797b25bf4443 .font-title-s {
-        font-size: 20px;   
-    }
-}
-        </style>
+
 <div class="aem-content-ctn">
 <div class="aem-padding-options" data-aem-id="i5dafe04cdc814b976528797b25bf4443-padding-options">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-tablet.jpg?v=1" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
 <section aria-label="CLEARER. BRIGHTER. BETTER." class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878" data-analytics-title="clearer-brighter-better" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/static-hpb/brio-100-hpb-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-layout-copy-offset="0" data-layout-copy-width="5" data-layout-desktop="text-only" data-layout-mobile="text-only" data-layout-tablet="text-only" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="left" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light" data-vert-align-content-desktop="center" data-vert-align-mobile="top" data-vert-align-tablet="top" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-play-btn-desktop="center" data-video-play-btn-mobile="inherit" data-video-play-btn-tablet="inherit">
-<style>
-				@media(min-width: 1025px){[data-aem-id=jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-desktop.jpg?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-tablet.jpg?v=1) 2x);}}@media(max-width: 719px){[data-aem-id=jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-mobile.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-mobile.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fstatic-hpb\2f brio-100-hpb-mobile.jpg?v=1) 2x);}}
-			</style>
-<style>
 
-    
-    @media(max-width: 719px){
-    	
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner h2{
-            font-size: 24px !important;
-        }
-        
-        
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner p,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ul,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ol {
-            font-size: 14px;
-        }
-        
-    }
-    
 
-    
-    @media(min-width: 720px) and (max-width: 1024px){
-    	
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner h2{
-            font-size: 52px !important;
-        }
-        
-        
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner p,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ul,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ol {
-            font-size: 18px;
-        }
-        
-    }
-    
-
-    
-    @media(min-width: 1025px){
-    	
-    	[data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner h2{
-            font-size: 60px !important;
-        }
-        
-        
-       	[data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner p,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ul,
-        [data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"] .banner-copy-ctn-inner ol {
-            font-size: 20px;
-        }
-        
-    }
-    
-    
-</style>
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
 </div>
 <div class="container js-banner-main-ctn">
 <div class="grid js-banner-main-grid aem-padding-options dptm dpbauto tptxl tpbauto mpbauto" data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878-padding-options">
-<style>
-        	
-            
-            
-            
-            @media(max-width: 719px){[data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878-padding-options"]{padding-top:100px;}}
-            @media(max-width: 719px){[data-aem-id="jumbotron_item-i5c49beb2e53aa11abf8ef0569d74e878"]{}}
-		</style>
+
 <div class="banner-copy-ctn">
 <div class="grid">
 <div class="banner-copy-ctn-inner js-banner-copy-ctn-inner">
@@ -2091,7 +1807,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2124,7 +1839,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2154,7 +1868,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2184,7 +1897,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2214,7 +1926,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2247,7 +1958,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2277,7 +1987,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 </div>
@@ -2371,7 +2080,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2401,7 +2109,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2431,7 +2138,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2464,7 +2170,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2497,7 +2202,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2527,7 +2231,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2560,7 +2263,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2590,7 +2292,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 </div>
@@ -2681,7 +2382,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2711,7 +2411,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2741,7 +2440,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2774,7 +2472,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2807,7 +2504,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2837,7 +2533,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2870,7 +2565,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
@@ -2903,7 +2597,6 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 </div>
-
 </div>
 </div>
 </div>
@@ -2952,34 +2645,8 @@ ul.tech-specs ul.dotted {
 </div>
 </div>
 <div class="aem-margin-options" data-aem-id="i45d5b4a540c8794b66ebd57a723839ea" id="i45d5b4a540c8794b66ebd57a723839ea">
-<style>
-			.LMz3s7PE {
-    			display: none;
-			}
-		</style>
-<style>
-            /* CSS */
-@media (max-width: 767px) {
-     #multi-tab-recs .pangea-cmp.tabs-accordion[data-tabs-style=section]>div>div>div>.tab {
-         margin: 0 10px;
-    }
-     #multi-tab-recs .pangea-cmp.tabs-accordion[data-tabs-style=section]>div>div>div>.tab button{
-         font-size: 14px;
-    }
-}
-#multi-tab-recs .recommended-products .product-wrap .product-description p {
-     display: none;
-}
- @media (min-width: 1025px) {
-     #multi-tab-recs .pangea-cmp.section-container>.content-ctn.container {
-         max-width: 1480px !important;
-    }
-     #multi-tab-recs .pangea-cmp.tabs-accordion[data-tabs-style=section]>div>div>.tabs{
-         margin-left: 100px;
-         margin-right: 100px;
-    }
-}
-        </style>
+
+
 <div class="aem-content-ctn">
 <div class="aem-padding-options" data-aem-id="i45d5b4a540c8794b66ebd57a723839ea-padding-options" id="i45d5b4a540c8794b66ebd57a723839ea-padding-options">
 </div>
@@ -3022,166 +2689,7 @@ window.addEventListener("resize", updateRecTitle);
 </div>
 <div class="xfpage page basicpage">
 <div class="pangea-cmp masonry-tiles pangea-masonry-tiles js-pangea-masonry-tiles aem-margin-options" data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87" data-carousel-mode-enable="false" data-gap-desktop="normal" data-gap-mobile="normal" data-gap-tablet="normal" data-theme="theme-light">
-<style>
-          	@media(min-width: 1025px){
-        	
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .desktop .p0{
-        					grid-template-areas:
-        					
-                          		"A A B "
-                    		
-                          		"A A E "
-                    		
-                          		"C D E "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .desktop .p1{
-        					grid-template-areas:
-        					
-                          		"F G H "
-                    		
-                          		"F G H "
-                    		
-                          		"F G H "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .desktop .p2{
-        					grid-template-areas:
-        					
-                          		"I K K "
-                    		
-                          		"J K K "
-                    		
-                      }
-                  
 
-				 
-              }
-
-           	@media(min-width: 720px) and (max-width: 1024px){
-        	
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .tablet .p0{
-        					grid-template-areas:
-                          	
-                          		"A A "
-                    		
-                          		"A A "
-                    		
-                          		"C D "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .tablet .p1{
-        					grid-template-areas:
-                          	
-                          		"B F "
-                    		
-                          		"E I "
-                    		
-                          		"E I "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .tablet .p2{
-        					grid-template-areas:
-                          	
-                          		"G H "
-                    		
-                          		"G H "
-                    		
-                          		"G H "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .tablet .p3{
-        					grid-template-areas:
-                          	
-                          		"J "
-                    		
-                          		"K "
-                    		
-                      }
-                  
-
-				  
-
-              }
-
-        @media(max-width: 719px){
-        	
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p0{
-        					grid-template-areas:
-                          	
-                          		"A "
-                    		
-                          		"B "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p1{
-        					grid-template-areas:
-                          	
-                          		"C "
-                    		
-                          		"D "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p2{
-        					grid-template-areas:
-                          	
-                          		"H "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p3{
-        					grid-template-areas:
-                          	
-                          		"E "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p4{
-        					grid-template-areas:
-                          	
-                          		"F "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p5{
-        					grid-template-areas:
-                          	
-                          		"G "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p6{
-        					grid-template-areas:
-                          	
-                          		"I "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p7{
-        					grid-template-areas:
-                          	
-                          		"J "
-                    		
-                      }
-                  
-                  	[data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87"] .mobile .p8{
-        					grid-template-areas:
-                          	
-                          		"K "
-                    		
-                      }
-                  
-
-				  
-              }
-    </style>
 <div class="aem-content-ctn no-container">
 <div class="aem-padding-options dptm dpbm tptm tpbm mptm mpbm" data-aem-id="masonrytiles_copy_19-i71889c5c419e04c53d4bd4a8cecadf87-padding-options">
 <div class="view-wrapper mobile">
@@ -4049,23 +3557,14 @@ window.addEventListener("resize", updateRecTitle);
 <div class="xfpage page basicpage">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-mobile-2.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-tablet.jpg?v=1" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
 <section aria-label="FIND THE BEST PRODUCTS FOR YOUR WORKSPACE" class="pangea-cmp banner js-pangea-banner dbgsize-contain-w tbgsize-contain-w mbgsize-contain-w dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc" data-analytics-title="find-the-best-products-for-your-workspace" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-mobile-2.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/workspace-configurator-hpb-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="4" data-layout-desktop="txt-right-img-left" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="text-only" data-layout-tablet="text-only" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="left" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="top" data-vert-align-tablet="top" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_1623176042858_c-id9530df26e4f265d75246af76418b1cc]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-mobile-2.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-mobile-2.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-mobile-2.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-mobile-2.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-mobile-2.jpg?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_1623176042858_c-id9530df26e4f265d75246af76418b1cc]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-tablet.jpg?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_1623176042858_c-id9530df26e4f265d75246af76418b1cc]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fworkspace-configurator-hpb-desktop.jpg?v=1) 2x);}}
-       </style>
+
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
 </div>
 <div class="container js-banner-main-ctn">
 <div class="grid js-banner-main-grid aem-padding-options dptauto dpbauto" data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc-padding-options">
-<style>
-        	
-            
-            @media(min-width: 720px) and (max-width: 1024px){[data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc-padding-options"]{padding-bottom:160px;padding-top:100px;}}
-            @media(min-width: 720px) and (max-width: 1024px){[data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc"]{}}
-            @media(max-width: 719px){[data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc-padding-options"]{padding-bottom:360px;padding-top:100px;}}
-            @media(max-width: 719px){[data-aem-id="item_1623176042858_c-id9530df26e4f265d75246af76418b1cc"]{}}
-		</style>
+
 <div class="banner-copy-ctn">
 <div class="banner-extra-content above">
 <div class="parsys-ctn">
@@ -4140,9 +3639,7 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item cmp-carousel__item--active" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-desktop.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-tablet.png?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_1629072110403_c_1868213543-ie2216e0f1ff88792246c4292824137ab" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-desktop.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-plastic-tablet.png?v=1" data-body-icon-desktop="https://resource.logitech.com/w_184,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-icon.png?v=1" data-body-icon-mobile="https://resource.logitech.com/w_113,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-icon.png?v=1" data-body-icon-tablet="https://resource.logitech.com/w_214,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/pcr-icon.png?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="txt-bot-img-top" data-layout-tablet="txt-bot-img-top" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_1629072110403_c_1868213543-ie2216e0f1ff88792246c4292824137ab]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-mobile.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-mobile.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-mobile.png?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_1629072110403_c_1868213543-ie2216e0f1ff88792246c4292824137ab]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-tablet.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-tablet.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-tablet.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-tablet.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-tablet.png?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_1629072110403_c_1868213543-ie2216e0f1ff88792246c4292824137ab]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-desktop.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-desktop.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-desktop.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-desktop.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2fpcr-plastic-desktop.png?v=1) 2x);}}
-       </style>
+
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4177,33 +3674,8 @@ window.addEventListener("resize", updateRecTitle);
 <div class="banner-divider"></div>
 <div class="parsys-ctn">
 <div class="pangea-cmp body-copy js-pangea-body-copy aem-margin-options font-size-normal font-brown-light dc-kohle tc-kohle mc-kohle" data-aem-id="text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-body-size="font-size-normal">
-<style>
-        	@media(min-width: 1025px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options, [data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options]{}}
-        	@media(min-width: 1025px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a,[data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a] {margin-top:-30px;}}
-            @media(min-width: 720px) and (max-width: 1024px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options, [data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options]{}}
-            @media(min-width: 720px) and (max-width: 1024px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a,[data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a]{margin-top:-30px;}}
-            @media(max-width: 719px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options,[data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options]{}}
-            @media(max-width: 719px){#text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a,[data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a]{margin-top:-30px;}}
-		</style>
-<style>
 
-    
-    @media(max-width: 719px){
-    	
-        #text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a h2,
-        [data-aem-id=text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a] h2{
-            font-size: 34px !important;
-        }
-        
-        
-    }
-    
 
-    
-
-    
-    
-</style>
 <div class="aem-content-ctn no-container">
 <div class="aem-padding-options" data-aem-id="text_editable-iac594b731a4e0cfc8dd6ba9e2de8955a-padding-options">
 <div class="content-ctn rte-field">
@@ -4216,14 +3688,7 @@ window.addEventListener("resize", updateRecTitle);
 </div>
 </div>
 <div class="pangea-cmp body-copy js-pangea-body-copy aem-margin-options font-size-normal font-brown-bold dc-white tc-white mc-white" data-aem-id="text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-body-size="font-size-normal">
-<style>
-        	@media(min-width: 1025px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options, [data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options]{}}
-        	@media(min-width: 1025px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b,[data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b] {margin-top:-20px;}}
-            @media(min-width: 720px) and (max-width: 1024px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options, [data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options]{}}
-            @media(min-width: 720px) and (max-width: 1024px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b,[data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b]{margin-top:-20px;}}
-            @media(max-width: 719px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options,[data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options]{padding-bottom:140px;}}
-            @media(max-width: 719px){#text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b,[data-aem-id=text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b]{margin-top:-20px;}}
-		</style>
+
 <div class="aem-content-ctn no-container">
 <div class="aem-padding-options dpbxl tpbxl" data-aem-id="text_editable_767971439-ied3fa487330945261cfe374e18c6aa6b-padding-options">
 <div class="content-ctn rte-field text-width-normal">
@@ -4268,33 +3733,8 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-tablet.jpg?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="Future Positive Challenge" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2" data-analytics-title="future-positive-challenge" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/future-positive-challenge-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-fg-img-align-desktop="left" data-fg-img-align-mobile="left" data-fg-img-align-tablet="left" data-fg-img-alt="Computer chip wafer" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="txt-bot-img-top" data-layout-tablet="txt-bot-img-top" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-mobile.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-mobile.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-mobile.jpg?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-tablet.jpg?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f future-positive-challenge-desktop.jpg?v=1) 2x);}}
-       </style>
-<style>
 
-    
 
-    
-
-    
-    @media(min-width: 1025px){
-    	
-    	[data-aem-id="item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2"] .banner-copy-ctn-inner h2{
-            font-size: 56px !important;
-        }
-        
-        
-       	[data-aem-id="item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2"] .banner-copy-ctn-inner p,
-        [data-aem-id="item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2"] .banner-copy-ctn-inner ul,
-        [data-aem-id="item_1629072110403_c_1227519021-i54d088ac980df5235335a3bf3221f4a2"] .banner-copy-ctn-inner ol {
-            font-size: 24px;
-        }
-        
-    }
-    
-    
-</style>
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4361,9 +3801,7 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-desk.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-mobile1.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-tablet1.png?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="Climate Positive" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_1629072110403-i3c356ffc18188ec98363f1b7cbb10145" data-analytics-title="climate-positive" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-desk.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-mobile1.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/climate-positive-tablet1.png?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="txt-bot-img-top" data-layout-tablet="txt-bot-img-top" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_1629072110403-i3c356ffc18188ec98363f1b7cbb10145]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-mobile1.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-mobile1.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-mobile1.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-mobile1.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-mobile1.png?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_1629072110403-i3c356ffc18188ec98363f1b7cbb10145]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-tablet1.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-tablet1.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-tablet1.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-tablet1.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-tablet1.png?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_1629072110403-i3c356ffc18188ec98363f1b7cbb10145]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-desk.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-desk.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-desk.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-desk.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f climate-positive-desk.png?v=1) 2x);}}
-       </style>
+
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4430,9 +3868,7 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-desktop.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-tablet.png?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="Carbon Clarity" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-right tbgpos-right mbgpos-right" data-aem-id="item_1629072110403_c-ie5144d9b1199493f085fcb5a077b1d50" data-analytics-title="carbon-clarity" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-desktop.png?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/carbon-methodology-tablet.png?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="txt-bot-img-top" data-layout-tablet="txt-bot-img-top" data-size-desktop="size-75vh" data-size-mobile="size-75vh" data-size-tablet="size-75vh" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_1629072110403_c-ie5144d9b1199493f085fcb5a077b1d50]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-mobile.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-mobile.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-mobile.png?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_1629072110403_c-ie5144d9b1199493f085fcb5a077b1d50]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-tablet.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-tablet.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-tablet.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-tablet.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-tablet.png?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_1629072110403_c-ie5144d9b1199493f085fcb5a077b1d50]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-desktop.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-desktop.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-desktop.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-desktop.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f carbon-methodology-desktop.png?v=1) 2x);}}
-       </style>
+
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4502,27 +3938,8 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-tablet.jpg?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="Logicares" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_social_impact-i249dae3292d06fb5c4cbc9a2fff67ed7" data-analytics-title="logicares" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-mobile.jpg?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-logicares-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="3" data-layout-copy-width="6" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="text-only" data-layout-tablet="text-only" data-size-desktop="size-full" data-size-mobile="size-full" data-size-tablet="size-full" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_social_impact-i249dae3292d06fb5c4cbc9a2fff67ed7]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-mobile.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-mobile.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-mobile.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-mobile.jpg?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_social_impact-i249dae3292d06fb5c4cbc9a2fff67ed7]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-tablet.jpg?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_social_impact-i249dae3292d06fb5c4cbc9a2fff67ed7]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-logicares-desktop.jpg?v=1) 2x);}}
-       </style>
-<style>
 
-    
 
-    
-    @media(min-width: 720px) and (max-width: 1024px){
-    	
-        [data-aem-id="item_social_impact-i249dae3292d06fb5c4cbc9a2fff67ed7"] .banner-copy-ctn-inner h2{
-            font-size: 56px !important;
-        }
-        
-        
-    }
-    
-
-    
-    
-</style>
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4589,27 +4006,8 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-tablet.jpg?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="Design Awards" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_design_awards-i5d689ca0cd4da8637a3a15f6d09e0e93" data-analytics-title="design-awards" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-design-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="text-only" data-layout-tablet="text-only" data-size-desktop="size-full" data-size-mobile="size-full" data-size-tablet="size-full" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_design_awards-i5d689ca0cd4da8637a3a15f6d09e0e93]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-mobile.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-mobile.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-mobile.png?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_design_awards-i5d689ca0cd4da8637a3a15f6d09e0e93]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-tablet.jpg?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_design_awards-i5d689ca0cd4da8637a3a15f6d09e0e93]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-design-desktop.jpg?v=1) 2x);}}
-       </style>
-<style>
 
-    
 
-    
-    @media(min-width: 720px) and (max-width: 1024px){
-    	
-        [data-aem-id="item_design_awards-i5d689ca0cd4da8637a3a15f6d09e0e93"] .banner-copy-ctn-inner h2{
-            font-size: 46px !important;
-        }
-        
-        
-    }
-    
-
-    
-    
-</style>
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -4676,9 +4074,7 @@ window.addEventListener("resize", updateRecTitle);
 <div class="carousel-banner-slide cmp-carousel__item" data-cmp-hook-carousel="item" role="tabpanel"><div class="banner-aem">
 <div class="banner-wrapper" data-analytics-section="main-banner" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-tablet.jpg?v=1" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark">
 <section aria-label="About Logitech" class="pangea-cmp banner js-pangea-banner dbgsize-cover tbgsize-cover mbgsize-cover dbgpos-center tbgpos-center mbgpos-center" data-aem-id="item_about-i8dea33bc37c66d0d4b5977086c6e2cee" data-analytics-title="about-logitech" data-bg-img-desktop="https://resource.logitech.com/w_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-desktop.jpg?v=1" data-bg-img-mobile="https://resource.logitech.com/w_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-mobile.png?v=1" data-bg-img-tablet="https://resource.logitech.com/w_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/homepage/bg-about-tablet.jpg?v=1" data-display-mode-mobile="overlaid" data-display-mode-tablet="overlaid" data-gradient-desktop="none" data-gradient-mobile="none" data-gradient-opacity-desktop="50" data-gradient-opacity-mobile="50" data-gradient-opacity-tablet="50" data-gradient-tablet="none" data-layout-copy-offset="2" data-layout-copy-width="8" data-layout-desktop="text-only" data-layout-img-offset="1" data-layout-img-width="5" data-layout-mobile="text-only" data-layout-tablet="text-only" data-size-desktop="size-full" data-size-mobile="size-full" data-size-tablet="size-full" data-text-align-desktop="center" data-text-align-mobile="center" data-text-align-tablet="center" data-theme-desktop="theme-dark" data-theme-mobile="theme-dark" data-theme-tablet="theme-dark" data-vert-align-content-desktop="center" data-vert-align-items-desktop="center" data-vert-align-mobile="center" data-vert-align-tablet="center" data-video-ar="16x9" data-video-display-mode-desktop="modal" data-video-display-mode-mobile="modal" data-video-display-mode-tablet="modal" data-video-host="youtube" data-video-play-btn-desktop="center" data-video-play-btn-mobile="center" data-video-play-btn-tablet="center">
-<style>
-          @media(max-width: 719px){[data-aem-id=item_about-i8dea33bc37c66d0d4b5977086c6e2cee]{background-image:url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-mobile.png?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-mobile.png?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-mobile.png?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_420,h_1024,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-mobile.png?v=1) 2x);}}@media(min-width: 720px) and (max-width: 1024px){[data-aem-id=item_about-i8dea33bc37c66d0d4b5977086c6e2cee]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-tablet.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-tablet.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-tablet.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1024,h_1366,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-tablet.jpg?v=1) 2x);}}@media(min-width: 1025px){[data-aem-id=item_about-i8dea33bc37c66d0d4b5977086c6e2cee]{background-image:url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-desktop.jpg?v=1);background-image:-webkit-image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-desktop.jpg?v=1) 2x);background-image:image-set(url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_1.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-desktop.jpg?v=1) 1x,url(https:\2f\2fresource.logitech.com\2fw_1800,h_1800,c_limit,q_auto,f_auto,dpr_2.0\2f d_transparent.gif\2f content\2f dam\2flogitech\2f en\2fhomepage\2f bg-about-desktop.jpg?v=1) 2x);}}
-       </style>
+
 <div class="image-region">
 <div class="stacked-mode-images">
 </div>
@@ -5029,11 +4425,7 @@ window.addEventListener("resize", updateRecTitle);
 <div class="component-background transparent-bgs">
 <div class="container">
 <!-- HTML -->
-<style>
-                 .iparys_inherited:last-child {
-                 z-index: auto !important;
-                 }
-              </style>
+
 </div>
 </div>
 </div>
