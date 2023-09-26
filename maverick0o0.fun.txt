@@ -12,7 +12,7 @@ Vary: Accept-Encoding<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//
     See: https://launchpad.net/bugs/1288690
   -->
 <head>
-
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
 <title>Apache2 Ubuntu Default Page: It works</title>
 
 </head>
