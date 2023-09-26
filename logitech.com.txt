@@ -5,11 +5,11 @@ Alt-Svc: h3=":443"; ma=86400
 Cache-Control: max-age=21600
 Content-Type: text/html;charset=utf-8
 Server: nginx
-Set-Cookie: AWSALB=BsX6ITCHRMvrmyDq1ZiByNFnG3s2MqBq2xRs2xIU3vLINXoGvw5cayxJenoiKJPuokKVAlt1z5acrMf29vESJVH1JhnzQzYzmKNfxWABPDU6mFjR2b5aDx6pzyP0; Expires=Tue, 03 Oct 2023 10:26:21 GMT; Path=/
-Set-Cookie: AWSALBCORS=BsX6ITCHRMvrmyDq1ZiByNFnG3s2MqBq2xRs2xIU3vLINXoGvw5cayxJenoiKJPuokKVAlt1z5acrMf29vESJVH1JhnzQzYzmKNfxWABPDU6mFjR2b5aDx6pzyP0; Expires=Tue, 03 Oct 2023 10:26:21 GMT; Path=/; SameSite=None; Secure
+Set-Cookie: AWSALB=kOMBfIRXAKBQ5z+UUE25i2Ouyx/S9cCbMn92ycKm8mXjvTKeLhxl7rHnOccn5344wHZPV+Oe9Hnf/gY7Jcjr1PzRlWQNm5wOgczjHSUJnurw4yHiiQeKyOsS/W5M; Expires=Tue, 03 Oct 2023 16:26:04 GMT; Path=/
+Set-Cookie: AWSALBCORS=kOMBfIRXAKBQ5z+UUE25i2Ouyx/S9cCbMn92ycKm8mXjvTKeLhxl7rHnOccn5344wHZPV+Oe9Hnf/gY7Jcjr1PzRlWQNm5wOgczjHSUJnurw4yHiiQeKyOsS/W5M; Expires=Tue, 03 Oct 2023 16:26:04 GMT; Path=/; SameSite=None; Secure
 Strict-Transport-Security: max-age=31536000
 Vary: CloudFront-Viewer-Country,Accept-Encoding
-X-Cache: Hit from cloudfront
+X-Cache: Miss from cloudfront
 X-Content-Type-Options: nosniff
 X-Dispatcher: dispatcher2uswest1-28253398
 X-Frame-Options: SAMEORIGIN
@@ -391,7 +391,7 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 <div class="promo-carousel">
 <div><div class="xfpage page basicpage">
 <!-- SDI include (path: /content/experience-fragments/logitech-com/en/navigation/promo-bar/en_gb/_jcr_content/root/promo_carousel_copy.mainnav-nocache.html, resourceType: logitech/components/content/navigation/promo-carousel) -->
-<div class="pangea-cmp cmp-carousel carousel-simple-ctn js-pangea-carousel-simple-ctn aem-margin-options" data-aem-id="promo_carousel_copy-idd1f6c1e1f874ae97849fcb05314031d" data-animation-type="in-place" data-arrows-desktop="true" data-arrows-mobile="true" data-arrows-position-desktop="" data-arrows-position-mobile="" data-arrows-position-tablet="" data-arrows-style-desktop="" data-arrows-style-mobile="" data-arrows-style-tablet="" data-arrows-tablet="true" data-autoplay="false" data-autoplay-duration="5" data-center-mode-desktop="false" data-center-mode-mobile="false" data-center-mode-tablet="false" data-center-padding-desktop="" data-center-padding-mobile="" data-center-padding-tablet="" data-cmp-is="carousel" data-dots-desktop="false" data-dots-mobile="false" data-dots-position-desktop="overlaid" data-dots-position-mobile="overlaid" data-dots-position-tablet="overlaid" data-dots-tablet="false" data-fixed-height="true" data-loops="true" data-slides-per-page-desktop="1" data-slides-per-page-mobile="1" data-slides-per-page-tablet="1" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light" id="promo-carousel-ca82afb391">
+<div class="pangea-cmp cmp-carousel carousel-simple-ctn js-pangea-carousel-simple-ctn aem-margin-options" data-aem-id="promo_carousel_copy-idd1f6c1e1f874ae97849fcb05314031d" data-animation-type="in-place" data-arrows-desktop="true" data-arrows-mobile="true" data-arrows-position-desktop="" data-arrows-position-mobile="" data-arrows-position-tablet="" data-arrows-style-desktop="" data-arrows-style-mobile="" data-arrows-style-tablet="" data-arrows-tablet="true" data-autoplay="false" data-autoplay-duration="5" data-center-mode-desktop="false" data-center-mode-mobile="false" data-center-mode-tablet="false" data-center-padding-desktop="" data-center-padding-mobile="" data-center-padding-tablet="" data-cmp-is="carousel" data-dots-desktop="false" data-dots-mobile="false" data-dots-position-desktop="overlaid" data-dots-position-mobile="overlaid" data-dots-position-tablet="overlaid" data-dots-tablet="false" data-fixed-height="true" data-loops="true" data-slides-per-page-desktop="1" data-slides-per-page-mobile="1" data-slides-per-page-tablet="1" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light" id="promo-carousel-dd1f6c1e1f">
 <div class="aem-content-ctn">
 <div class="aem-padding-options" data-aem-id="promo_carousel_copy-idd1f6c1e1f874ae97849fcb05314031d-padding-options">
 <div class="carousel-wrap">
@@ -510,13 +510,13 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 <div class="grid">
 <button aria-label="Go Back" class="mobile-back-btn js-mobile-back-btn" disabled="">Shop</button>
 <button class="desktop-close-btn js-desktop-close-btn"><span>Close</span></button>
-<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-070fdb0032" role="tablist">
+<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-f10e252238" role="tablist">
 <li class="nav-tab js-nav-tab cmp-tabs__tab active" data-cmp-hook-tabs="tab" role="none">
-<input checked="checked" id="radio-nav-tabs-070fdb0032-1" name="nav-tabs-070fdb0032" type="radio"/>
-<label aria-controls="nav-tabs-070fdb0032" aria-selected="true" class="nav-tab-title js-nav-tab-title" data-analytics-title="shop" for="radio-nav-tabs-070fdb0032-1" id="nav-tabs-070fdb0032-1" role="tab">
+<input checked="checked" id="radio-nav-tabs-f10e252238-1" name="nav-tabs-f10e252238" type="radio"/>
+<label aria-controls="nav-tabs-f10e252238" aria-selected="true" class="nav-tab-title js-nav-tab-title" data-analytics-title="shop" for="radio-nav-tabs-f10e252238-1" id="nav-tabs-f10e252238-1" role="tab">
 				Shop
 			</label>
-<div aria-labelledby="nav-tabs-070fdb0032-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-070fdb0032-item-5596dee98b" role="tabpanel">
+<div aria-labelledby="nav-tabs-f10e252238-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-f10e252238-item-5596dee98b" role="tabpanel">
 <div class="nav-page-inner has-featured">
 <div class="nav-page-main">
 <div class="nav-items-collection">
@@ -895,12 +895,12 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 <div class="grid">
 <button aria-label="Go Back" class="mobile-back-btn js-mobile-back-btn" disabled="">Discover</button>
 <button class="desktop-close-btn js-desktop-close-btn"><span>Close</span></button>
-<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-6bd74bead9" role="tablist">
+<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-1eaac70a32" role="tablist">
 <li class="nav-tab js-nav-tab cmp-tabs__tab active" data-cmp-hook-tabs="tab" role="none">
-<input checked="checked" id="radio-nav-tabs-6bd74bead9-1" name="nav-tabs-6bd74bead9" type="radio"/>
-<label aria-controls="nav-tabs-6bd74bead9" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-6bd74bead9-1" id="nav-tabs-6bd74bead9-1" role="tab">
+<input checked="checked" id="radio-nav-tabs-1eaac70a32-1" name="nav-tabs-1eaac70a32" type="radio"/>
+<label aria-controls="nav-tabs-1eaac70a32" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-1eaac70a32-1" id="nav-tabs-1eaac70a32-1" role="tab">
 </label>
-<div aria-labelledby="nav-tabs-6bd74bead9-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-6bd74bead9-item-3a6079c3a0" role="tabpanel">
+<div aria-labelledby="nav-tabs-1eaac70a32-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-1eaac70a32-item-3a6079c3a0" role="tabpanel">
 <div class="nav-page-inner has-featured">
 <div class="nav-page-main">
 <div class="nav-items-collection">
@@ -1122,12 +1122,12 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 <div class="grid">
 <button aria-label="Go Back" class="mobile-back-btn js-mobile-back-btn" disabled="">Business</button>
 <button class="desktop-close-btn js-desktop-close-btn"><span>Close</span></button>
-<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-011c9add41" role="tablist">
+<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-dd6e18c595" role="tablist">
 <li class="nav-tab js-nav-tab cmp-tabs__tab active" data-cmp-hook-tabs="tab" role="none">
-<input checked="checked" id="radio-nav-tabs-011c9add41-1" name="nav-tabs-011c9add41" type="radio"/>
-<label aria-controls="nav-tabs-011c9add41" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-011c9add41-1" id="nav-tabs-011c9add41-1" role="tab">
+<input checked="checked" id="radio-nav-tabs-dd6e18c595-1" name="nav-tabs-dd6e18c595" type="radio"/>
+<label aria-controls="nav-tabs-dd6e18c595" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-dd6e18c595-1" id="nav-tabs-dd6e18c595-1" role="tab">
 </label>
-<div aria-labelledby="nav-tabs-011c9add41-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-011c9add41-item-37f7489211" role="tabpanel">
+<div aria-labelledby="nav-tabs-dd6e18c595-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-dd6e18c595-item-37f7489211" role="tabpanel">
 <div class="nav-page-inner has-featured">
 <div class="nav-page-main">
 <div class="nav-items-collection">
@@ -1327,12 +1327,12 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 <div class="grid">
 <button aria-label="Go Back" class="mobile-back-btn js-mobile-back-btn" disabled="">Support</button>
 <button class="desktop-close-btn js-desktop-close-btn"><span>Close</span></button>
-<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-c74264952e" role="tablist">
+<ul class="cmp-tabs nav-tabs-list mobile-vert-scroll js-nav-tabs-list" data-cmp-is="tabs" data-num-tabs="1" id="nav-tabs-3ea03e1a3d" role="tablist">
 <li class="nav-tab js-nav-tab cmp-tabs__tab active" data-cmp-hook-tabs="tab" role="none">
-<input checked="checked" id="radio-nav-tabs-c74264952e-1" name="nav-tabs-c74264952e" type="radio"/>
-<label aria-controls="nav-tabs-c74264952e" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-c74264952e-1" id="nav-tabs-c74264952e-1" role="tab">
+<input checked="checked" id="radio-nav-tabs-3ea03e1a3d-1" name="nav-tabs-3ea03e1a3d" type="radio"/>
+<label aria-controls="nav-tabs-3ea03e1a3d" aria-selected="true" class="nav-tab-title js-nav-tab-title" for="radio-nav-tabs-3ea03e1a3d-1" id="nav-tabs-3ea03e1a3d-1" role="tab">
 </label>
-<div aria-labelledby="nav-tabs-c74264952e-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-c74264952e-item-899eb0762a" role="tabpanel">
+<div aria-labelledby="nav-tabs-3ea03e1a3d-1" class="nav-page js-nav-page cmp-tabs__tabpanel cmp-tabs__tabpanel--active" data-cmp-hook-tabs="tabpanel" id="nav-tabs-3ea03e1a3d-item-899eb0762a" role="tabpanel">
 <div class="nav-page-inner has-featured">
 <div class="nav-page-main">
 <div class="nav-items-collection">
@@ -2443,24 +2443,21 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
 <div class="product-wrap">
-<a aria-label="MX MASTER 3S" class="product-image img-link" data-analytics-title="rec-mx-master-3s" href="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html">
+<a aria-label="COMBO TOUCH" class="product-image img-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
 <picture class="responsive-img" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-full-width-desktop="false" data-full-width-mobile="false" data-full-width-tablet="false">
-<source media="(min-width: 1025px)" srcset="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
-<source media="(min-width: 720px)" srcset="https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
-<source media="(max-width: 719px)" srcset="https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
-<img alt="MX MASTER 3S" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1"/>
+<source media="(min-width: 1025px)" srcset="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
+<source media="(min-width: 720px)" srcset="https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
+<source media="(max-width: 719px)" srcset="https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
+<img alt="COMBO TOUCH" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1"/>
 </picture>
 </a>
-<div class="product-description-price has-series">
+<div class="product-description-price">
 <!-- we want this only on Gaming or need to deal with it via css on Logi -->
-<a class="product-description copy-link" data-analytics-title="rec-mx-master-3s" href="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html">
-<div class="product-series">
-                            master-series
-                        </div>
-<h2 class="font-size-large">MX MASTER 3S</h2>
+<a class="product-description copy-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
+<h2 class="font-size-large">COMBO TOUCH</h2>
 </a>
 <div class="product-price">
-<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="910-006559,910-006560" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
+<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="920-009624,920-009626,920-009641,920-009611,920-009627,920-009628,920-009642,920-009609,920-009625,920-009629,920-009643,920-011440,920-011438,920-011437,920-011435,920-011439,920-011441,920-011436,920-011381,920-011382" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
 <div class="aem-content-ctn content-ctn">
 <div class="aem-padding-options" data-aem-id="-padding-options">
 <div class="price-atc-ctn loading"></div>
@@ -2507,21 +2504,24 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
 <div class="product-wrap">
-<a aria-label="COMBO TOUCH" class="product-image img-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
+<a aria-label="MX MASTER 3S" class="product-image img-link" data-analytics-title="rec-mx-master-3s" href="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html">
 <picture class="responsive-img" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-full-width-desktop="false" data-full-width-mobile="false" data-full-width-tablet="false">
-<source media="(min-width: 1025px)" srcset="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
-<source media="(min-width: 720px)" srcset="https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
-<source media="(max-width: 719px)" srcset="https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 1x, https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1 2x"/>
-<img alt="COMBO TOUCH" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1"/>
+<source media="(min-width: 1025px)" srcset="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
+<source media="(min-width: 720px)" srcset="https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_332,h_167,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
+<source media="(max-width: 719px)" srcset="https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 1x, https://resource.logitech.com/w_537,h_196,c_limit,f_auto,q_auto,dpr_2.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1 2x"/>
+<img alt="MX MASTER 3S" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mice/mx-master-3s/gallery/mx-master-3s-mouse-top-view-pale-gray.png?v=1"/>
 </picture>
 </a>
-<div class="product-description-price">
+<div class="product-description-price has-series">
 <!-- we want this only on Gaming or need to deal with it via css on Logi -->
-<a class="product-description copy-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
-<h2 class="font-size-large">COMBO TOUCH</h2>
+<a class="product-description copy-link" data-analytics-title="rec-mx-master-3s" href="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html">
+<div class="product-series">
+                            master-series
+                        </div>
+<h2 class="font-size-large">MX MASTER 3S</h2>
 </a>
 <div class="product-price">
-<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="920-009624,920-009626,920-009641,920-009611,920-009627,920-009628,920-009642,920-009609,920-009625,920-009629,920-009643,920-011440,920-011438,920-011437,920-011435,920-011439,920-011441,920-011436,920-011381,920-011382" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
+<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/mice/mx-master-3s.910-006559.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="910-006559,910-006560" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
 <div class="aem-content-ctn content-ctn">
 <div class="aem-padding-options" data-aem-id="-padding-options">
 <div class="price-atc-ctn loading"></div>
