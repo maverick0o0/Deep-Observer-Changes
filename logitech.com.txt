@@ -9,7 +9,6 @@ Set-Cookie: AWSALB=BsX6ITCHRMvrmyDq1ZiByNFnG3s2MqBq2xRs2xIU3vLINXoGvw5cayxJenoiK
 Set-Cookie: AWSALBCORS=BsX6ITCHRMvrmyDq1ZiByNFnG3s2MqBq2xRs2xIU3vLINXoGvw5cayxJenoiKJPuokKVAlt1z5acrMf29vESJVH1JhnzQzYzmKNfxWABPDU6mFjR2b5aDx6pzyP0; Expires=Tue, 03 Oct 2023 10:26:21 GMT; Path=/; SameSite=None; Secure
 Strict-Transport-Security: max-age=31536000
 Vary: CloudFront-Viewer-Country,Accept-Encoding
-X-Amz-Cf-Pop: FRA2-C2
 X-Cache: Hit from cloudfront
 X-Content-Type-Options: nosniff
 X-Dispatcher: dispatcher2uswest1-28253398
