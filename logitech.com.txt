@@ -2439,6 +2439,35 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 </div>
 <div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
 <div class="product-wrap">
+<a aria-label="COMBO TOUCH" class="product-image img-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
+<picture class="responsive-img" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-full-width-desktop="false" data-full-width-mobile="false" data-full-width-tablet="false">
+
+
+
+<img alt="COMBO TOUCH" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1"/>
+</picture>
+</a>
+<div class="product-description-price">
+<!-- we want this only on Gaming or need to deal with it via css on Logi -->
+<a class="product-description copy-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
+<h2 class="font-size-large">COMBO TOUCH</h2>
+</a>
+<div class="product-price">
+<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="920-009624,920-009626,920-009641,920-009611,920-009627,920-009628,920-009642,920-009609,920-009625,920-009629,920-009643,920-011440,920-011438,920-011437,920-011435,920-011439,920-011441,920-011436,920-011381,920-011382" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
+<div class="aem-content-ctn content-ctn">
+<div class="aem-padding-options" data-aem-id="-padding-options">
+<div class="price-atc-ctn loading"></div>
+<div class="vertical-divider"></div>
+<div class="price-atc-cta loading"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
+<div class="product-wrap">
 <a aria-label="MX MECHANICAL" class="product-image img-link" data-analytics-title="rec-mx-mechanical" href="https://www.logitech.com/en-gb/products/keyboards/mx-mechanical.920-010748.html">
 <picture class="responsive-img" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-full-width-desktop="false" data-full-width-mobile="false" data-full-width-tablet="false">
 
@@ -2457,35 +2486,6 @@ X-Xss-Protection: 1; mode=block<!DOCTYPE HTML>
 </a>
 <div class="product-price">
 <div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/keyboards/mx-mechanical.920-010748.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="920-010773,920-010780,920-010748,920-010759,920-010758,920-010756,920-010757,920-010752,920-010750,920-010776,920-010749,920-010779,920-010777,920-010782,920-010753,920-010781,920-010775,920-010772,920-010755,920-010774,920-010778,920-010751,920-010771,920-010754" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
-<div class="aem-content-ctn content-ctn">
-<div class="aem-padding-options" data-aem-id="-padding-options">
-<div class="price-atc-ctn loading"></div>
-<div class="vertical-divider"></div>
-<div class="price-atc-cta loading"></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="cmp-carousel__item" data-cmp-hook-carousel="item" data-slide-index="recommended-slide-" role="tabpanel">
-<div class="product-wrap">
-<a aria-label="COMBO TOUCH" class="product-image img-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
-<picture class="responsive-img" data-align-desktop="center" data-align-mobile="center" data-align-tablet="center" data-full-width-desktop="false" data-full-width-mobile="false" data-full-width-tablet="false">
-
-
-
-<img alt="COMBO TOUCH" loading="lazy" src="https://resource.logitech.com/w_320,h_184,c_limit,f_auto,q_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/mobility/combo-touch/gallery/uk-combo-touch-1.png?v=1"/>
-</picture>
-</a>
-<div class="product-description-price">
-<!-- we want this only on Gaming or need to deal with it via css on Logi -->
-<a class="product-description copy-link" data-analytics-title="rec-combo-touch" href="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html">
-<h2 class="font-size-large">COMBO TOUCH</h2>
-</a>
-<div class="product-price">
-<div class="pangea-cmp price-atc js-pangea-price-atc" data-align-desktop="left" data-align-mobile="left" data-align-tablet="left" data-atc-size="small" data-atc-style="button" data-display-desktop="stacked" data-display-mobile="stacked" data-display-tablet="stacked" data-hide-atc="true" data-hide-price="false" data-hulk-call="true" data-in-buy-module="true" data-in-pdp="false" data-in-plp="false" data-in-sec-nav="false" data-price-size="normal" data-product-path="https://www.logitech.com/en-gb/products/ipad-keyboards/combo-touch.920-009629.html" data-show-full-price="true" data-show-rts="true" data-show-special-message="false" data-skus="920-009624,920-009626,920-009641,920-009611,920-009627,920-009628,920-009642,920-009609,920-009625,920-009629,920-009643,920-011440,920-011438,920-011437,920-011435,920-011439,920-011441,920-011436,920-011381,920-011382" data-theme-desktop="theme-light" data-theme-mobile="theme-light" data-theme-tablet="theme-light">
 <div class="aem-content-ctn content-ctn">
 <div class="aem-padding-options" data-aem-id="-padding-options">
 <div class="price-atc-ctn loading"></div>
