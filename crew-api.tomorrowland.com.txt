@@ -1,6 +1,5 @@
 HTTP/1.1 404 Not Found
 Connection: close
-Transfer-Encoding: chunked
 Cache-Control: no-cache, private
 Content-Type: text/html; charset=UTF-8
 Server: Apache/2.4.57 () OpenSSL/1.0.2k-fips
