@@ -2,14 +2,8 @@ HTTP/1.1 401 Unauthorized
 Connection: close
 Content-Length: 43
 Content-Type: text/html
-Date: Sat, 07 Oct 2023 05:36:32 GMT
 Server: CloudFront
-Via: 1.1 badff53d2116a4b3d32a2dd1eb918a48.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: stmqltozcIEYCNHEAQE2PxNGgHlATmEujtMM7xkM04D2qBUQmqnkow==
-X-Amz-Cf-Pop: MUC50-P1
-X-Cache: Error from cloudfront
-
-<html>
+X-Cache: Error from cloudfront<html>
 <body>
 Access Denied
 </body>
