@@ -2,13 +2,7 @@ HTTP/1.1 403 Forbidden
 Connection: close
 Transfer-Encoding: chunked
 Content-Type: application/xml
-Date: Sat, 07 Oct 2023 05:36:07 GMT
 Server: AmazonS3
 Vary: Origin
-Via: 1.1 19392de11dadb918bd6f24e199ea180e.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: -jRjDFvqBtC4ezJWlsn45mFeH6b_h2NOeq4vowq_5uA13rOZk8pUOQ==
-X-Amz-Cf-Pop: MUC50-P3
-X-Cache: Error from cloudfront
-
-<?xml version="1.0" encoding="UTF-8"?>
-<error><code>AccessDenied</code><message>Access Denied</message><requestid>241KMZWH5B541Q5H</requestid><hostid>hghkFQXMo2V6IAuCoZMbF2nwZX9t6lyW+KOQKdiRBqVBs2iA+v5clufybmdQkVbiFd7xdA+tNqJ2ZsO2YYe2VA==</hostid></error>
+X-Cache: Error from cloudfront<?xml version="1.0" encoding="UTF-8"?>
+<error><code>AccessDenied</code><message>Access Denied</message><requestid>GBXD0PCMRHT5044C</requestid><hostid>7ZxKGgo3ksG749BhWGHlPLhCeOvPtLxGbhbVCH///koDN2C/v1QA9eVIMOxbQiYMyWh7+bwZQxI=</hostid></error>
