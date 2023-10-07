@@ -1,14 +1,8 @@
 HTTP/1.1 404 Not Found
 Connection: close
 Content-Length: 3048
-Age: 0
 Content-Type: text/html;charset=utf-8
-Date: Sat, 07 Oct 2023 05:36:25 GMT
-Server: Squarespace
-Set-Cookie: crumb=BTUypuNlDshBMGQzNjNiMDQwOTY5NzFjMzM3YzdmMWRiYjMwNWM1;Secure;Path=/
-X-Contextid: X95KlMHv/ZrK0KdCW
-
-<!DOCTYPE HTML>
+Server: Squarespace<!DOCTYPE HTML>
 
 <html>
 <head>
