@@ -3,10 +3,10 @@ Connection: close
 Content-Length: 3048
 Age: 0
 Content-Type: text/html;charset=utf-8
-Date: Sat, 07 Oct 2023 05:35:43 GMT
+Date: Sat, 07 Oct 2023 05:36:25 GMT
 Server: Squarespace
-Set-Cookie: crumb=BZVMumFF/PMNNjFjNTBiMDhlMGI5OGY1MGE1ZjMyNTI2ZDI2MGZj;Secure;Path=/
-X-Contextid: 35tWzI9S/Bh64Ob5C
+Set-Cookie: crumb=BTUypuNlDshBMGQzNjNiMDQwOTY5NzFjMzM3YzdmMWRiYjMwNWM1;Secure;Path=/
+X-Contextid: X95KlMHv/ZrK0KdCW
 
 <!DOCTYPE HTML>
 
