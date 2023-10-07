@@ -5,4 +5,3 @@ Content-Type: application/xml
 Server: AmazonS3
 Vary: Origin
 X-Cache: Error from cloudfront<?xml version="1.0" encoding="UTF-8"?>
-<error><code>AccessDenied</code><message>Access Denied</message><requestid>XZWN8PFR50N7EA5K</requestid><hostid>UwjeUBZu2Kj/3uVgYM+IrIB4HAfbkoQTD2GuSNisJfRXN2BXeat9L5UtuBb6vveeayVrU92mLPI=</hostid></error>
