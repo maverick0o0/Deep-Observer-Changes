@@ -3,10 +3,7 @@ Connection: close
 Content-Length: 1552
 Cache-Control: no-cache, private
 Content-Type: text/html; charset=UTF-8
-Date: Sat, 07 Oct 2023 05:36:17 GMT
-Server: Apache
-
-<!DOCTYPE html>
+Server: Apache<!DOCTYPE html>
 
 <html lang="en">
 <head>
