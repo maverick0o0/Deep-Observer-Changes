@@ -1,14 +1,15 @@
 HTTP/1.1 200 OK
 Connection: close
 Transfer-Encoding: chunked
+Age: 42
 Content-Type: text/html
 Date: Sat, 07 Oct 2023 05:35:38 GMT
 Etag: W/"2ec7ad521beee603f7482ee5d0d25271"
 Last-Modified: Tue, 08 Aug 2023 15:13:55 GMT
 Server: AmazonS3
 Vary: Accept-Encoding
-Via: 1.1 66ce4848bcf993e3c57b596461cd0b82.cloudfront.net (CloudFront)
-X-Amz-Cf-Id: ZoM8SYRYQjGnaPU7ovLFrrEnIP01N127NEESttGpspeiTvjDIZ5uxg==
+Via: 1.1 033e374ece012797cbee0d505e2e61b4.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: grvJ_RZNYtZUFQh6iVabKgwr9vXeMvyjPhyVkLZYx1mdUGu6qEMyDg==
 X-Amz-Cf-Pop: MUC50-P1
 X-Amz-Server-Side-Encryption: AES256
 X-Cache: Error from cloudfront
