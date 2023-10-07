@@ -1,0 +1,48 @@
+HTTP/1.1 404 Not Found
+Connection: close
+Content-Length: 3048
+Age: 0
+Content-Type: text/html;charset=utf-8
+Date: Sat, 07 Oct 2023 05:35:43 GMT
+Server: Squarespace
+Set-Cookie: crumb=BZVMumFF/PMNNjFjNTBiMDhlMGI5OGY1MGE1ZjMyNTI2ZDI2MGZj;Secure;Path=/
+X-Contextid: 35tWzI9S/Bh64Ob5C
+
+<!DOCTYPE HTML>
+
+<html>
+<head>
+<title>Squarespace - Domain Not Claimed</title>
+<meta content="chrome=1" http-equiv="X-UA-Compatible"/>
+<script crossorigin="anonymous" nomodule="" src="//assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/@sqs/polyfiller/1.6/modern.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2ac038bcca92b24daaa92-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-e67ac5a108455ec4edca7-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-ede72e01bfb324658a0ac-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-988cea152e72258d821b3-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-vendors-0bb808e991bdc5ee15a34-min.en-US.js"></script><script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/common-aaa9e1255c6c9bc80cf3e-min.en-US.js"></script><link href="//assets.squarespace.com/universal/styles-compressed/common-49a4c671c1871e3f6d8b4-min.en-US.css" rel="stylesheet" type="text/css"/>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/dialog-c785cc600706ee9c881d0-min.en-US.js"></script><link href="//assets.squarespace.com/universal/styles-compressed/dialog-c5820adc533c8807482f5-min.en-US.css" rel="stylesheet" type="text/css"/>
+<script crossorigin="anonymous" src="//assets.squarespace.com/universal/scripts-compressed/system-page-44c9497ad8fdd5a79bc5e-min.en-US.js"></script><link href="//assets.squarespace.com/universal/styles-compressed/system-page-074b0546f6a77bacb695f-min.en-US.css" rel="stylesheet" type="text/css"/>
+<script>
+    Static.SQUARESPACE_CONTEXT = {"domainName":"gravelpartners.tomorrowland.com","manageUrl":"https://dalmatian-bat-9w7h.squarespace.com/config#/settings/domains"};
+
+    YUI(YUI_CONFIG).use('squarespace-common', 'squarespace-system-page', function(Y) {
+
+      Y.on("domready", function() {
+
+        var lb = new Y.Squarespace.Lightbox({
+          disableNormalClose: true,
+          clickAnywhereToExit: false,
+          content: '<div class="bigtext"><div class="title">This website is pending domain owner verification</div><div class="description">To learn how to verify your domain, <a style="color: #777;" href="' + Static.SQUARESPACE_CONTEXT.manageUrl + '">manage your domain settings here.</a></div></div>',
+          margin: 100,
+          noHeightConstrain: true
+        });
+
+        lb.show();
+
+      });
+
+    });
+
+  </script>
+</head>
+<body class="squarespace-config squarespace-system-page">
+<div class="minimal-logo"> </div>
+</body>
+</html>
