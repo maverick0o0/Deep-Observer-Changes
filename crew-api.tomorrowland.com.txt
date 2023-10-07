@@ -2,11 +2,8 @@ HTTP/1.1 404 Not Found
 Connection: close
 Cache-Control: no-cache, private
 Content-Type: text/html; charset=UTF-8
-Date: Sat, 07 Oct 2023 05:36:03 GMT
 Server: Apache/2.4.57 () OpenSSL/1.0.2k-fips
-Vary: Accept-Encoding
-
-<!DOCTYPE html>
+Vary: Accept-Encoding<!DOCTYPE html>
 
 <html lang="en">
 <head>
