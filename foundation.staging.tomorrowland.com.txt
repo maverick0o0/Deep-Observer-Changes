@@ -2,7 +2,4 @@ HTTP/1.1 404 Not Found
 Connection: close
 Accept-Ranges: bytes
 Cache-Control: max-age=10
-Date: Sat, 07 Oct 2023 05:36:22 GMT
-X-Hw: 1696656982.cds281.fr8.hn,1696656982.cds281.fr8.h2c
 Content-Length: 0
-
